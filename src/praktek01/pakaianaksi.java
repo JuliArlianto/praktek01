@@ -12,6 +12,9 @@ package praktek01;
 public class pakaianaksi {
     public static void main(String[] args) {
         
+    Pakaian Baju = new Pakaian();
+    Pakaian Celana = new Pakaian();
+    Pakaian Sepatu = new Pakaian();
     }
     
 }
