@@ -15,6 +15,24 @@ public class pakaianaksi {
     Pakaian Baju = new Pakaian();
     Pakaian Celana = new Pakaian();
     Pakaian Sepatu = new Pakaian();
+    
+    Baju.Warna = "Biru";
+    Baju.Ukuran = "XL";
+    Baju.Bahan = "Cotton";
+    Baju.Tipe = "Oblong";
+    Baju.Merk = "Cressida";
+    
+    Celana.Warna = "Hitam";
+    Celana.Ukuran = "33";
+    Celana.Bahan = "Jeans";
+    Celana.Tipe = "Joger";
+    Celana.Merk = "Emba";
+    
+    Sepatu.Warna = "Hitam";
+    Sepatu.Ukuran = "42";
+    Sepatu.Bahan = "Kulit";
+    Sepatu.Tipe = "Sneaker";
+    Sepatu.Merk = "Adidas";
     }
     
 }
