@@ -33,6 +33,10 @@ public class pakaianaksi {
     Sepatu.Bahan = "Kulit";
     Sepatu.Tipe = "Sneaker";
     Sepatu.Merk = "Adidas";
+    
+    Baju.tampildata();
+    Celana.tampildata();
+    Sepatu.tampildata();
     }
     
 }
